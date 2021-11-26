@@ -38,8 +38,10 @@
 我们可以将所有的工程项目打包上传到[GITHUB](https://www.github.com "GitHub官方网站")进行托管，开发者可以下载[Git](https://git-scm.com/downloads "Git下载入口")软件进行项目管理和版本控制
 
 
-我们可以将所有的工程项目打包上传到[GITHUB][1]进行托管，开发者可以下载[Git][2]软件进行项目管理和版本控制
-
+我们可以将所有的工程项目打包上传到[GITHUB][1]进行托管，开发者可以下载[Git][2]软件进行项目管理和版本控制</br>
 [1]:https://www.github.com "GitHub官方网站"
 [2]:https://git-scm.com/downloads "Git下载入口"
+
+测试插入本地图片</br>
+![配图](D:/BaiduNetdiskDownload/video/Fouth/1124/2.PNG "图片标题")
 
