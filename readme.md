@@ -44,3 +44,35 @@
 插入图片</br>
 ![配图2](https://i.loli.net/2021/11/26/Dj6lB3gSxPibutq.png)
 
+```bash
+sudo apt-get install git
+```
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+int main()
+{
+	printf("c语言代码.\n");
+	return 0;
+}
+```
+
+```cpp
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout<<"c++代码测试"<<endl;
+	return 0;
+}
+```
+
+```python
+import os
+def self_main()
+	file_list=os.listdir(backup.dir)
+	return file_list
+```
+
