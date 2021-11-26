@@ -41,9 +41,6 @@
 [1]:https://www.github.com "GitHub官方网站"
 [2]:https://git-scm.com/downloads "Git下载入口"
 
-#测试插入本地图片</br>
-#![配图](D:/BaiduNetdiskDownload/video/Fouth/1124/2.PNG "图片标题")
-
 插入图片</br>
 ![配图2](https://i.loli.net/2021/11/26/Dj6lB3gSxPibutq.png)
 
